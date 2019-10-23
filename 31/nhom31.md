@@ -1,6 +1,6 @@
 # Nhóm 31 kiểm thử e2e cypress
 
-# Chức năng: Tham gia làm bài tập trên hoclieu.vn.
+# Chức năng: Đổi tên hiển thị lớp học trên hoclieu.vn.
 # Cài đặt:
 
   - Install Cypress: npm install cypress --save-dev
